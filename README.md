@@ -42,12 +42,11 @@ This AI-based solution automates the B2B lead scoring process, leveraging superv
 
 ## 👾 Features
 
-- 🧠 Multiple ML models implemented (Linear, Ridge, Lasso Regression, XGBoost, Random Forest)
-- 📈 Cross-validation for performance consistency
-- 📉 Comparative model evaluation using R² Score
-- 📦 Dataset used: `Lead.csv`
-- 🧪 Performance metrics visualized and interpreted
-- 📝 Well-documented code with modular design
+- **Sentiment Analysis:** Analyze social media text data to understand audience perception and brand sentiment. 🗣️
+- **Lead Scoring:** Predict the likelihood of a lead converting into a customer, enabling sales teams to prioritize efforts. 🎯
+- **Sales Prediction:** Forecast sales based on advertising spending across different channels, optimizing budget allocation. 💰
+- **Data Exploration & Visualization:** Comprehensive data exploration and visualization to identify key trends and relationships. 📈
+- **Machine Learning Models:** Implementation of various machine learning models, including linear regression, and techniques for sentiment classification. 🤖
 
 ---
 
